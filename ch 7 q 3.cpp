@@ -1,6 +1,4 @@
-### Program
 
-```cpp id="nq4j7k"
 #include <iostream>
 using namespace std;
 

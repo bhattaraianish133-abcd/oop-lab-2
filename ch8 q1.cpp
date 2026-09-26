@@ -1,6 +1,4 @@
-### Program
 
-```cpp
 #include <iostream>
 #include <fstream>
 #include <iomanip>

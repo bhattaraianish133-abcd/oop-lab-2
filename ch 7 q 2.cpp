@@ -1,6 +1,3 @@
-### Program
-
-```cpp id="x8v3kp"
 #include <iostream>
 using namespace std;
 
